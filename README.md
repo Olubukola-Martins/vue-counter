@@ -1,4 +1,5 @@
 # counter
+# Hosting URL: https://counter-vue-olubukola.netlify.app/#/
 
 ## Project setup
 ```
